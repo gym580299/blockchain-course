@@ -46,17 +46,17 @@
 
 1. 连接MetaMask钱包中的账户并发行代币JF
     
- 初始状态
- ![初始状态](picture/功能1.1.jpg)
+>初始状态
+>![初始状态](picture/功能1.1.jpg)
 
-MetaMask签名
-![MetaMask签名](picture/功能1.2.jpg)
+>MetaMask签名
+>![MetaMask签名](picture/功能1.2.jpg)
 
-结果
-![结果](picture/功能1.3.jpg)
+>结果
+>![结果](picture/功能1.3.jpg)
 
-MetaMask中可看见JF代币
-![MetaMask中可看见JF代币](picture/功能1.4.jpg)
+>MetaMask中可看见JF代币
+>![MetaMask中可看见JF代币](picture/功能1.4.jpg)
 
 
 2. 领取新车（MetaMask签名）
