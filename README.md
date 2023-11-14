@@ -46,8 +46,8 @@
 
 1. 连接MetaMask钱包中的账户并发行代币JF
     
-初始状态
-![初始状态](picture/功能1.1.jpg)
+ 初始状态
+ ![初始状态](picture/功能1.1.jpg)
 
 MetaMask签名
 ![MetaMask签名](picture/功能1.2.jpg)
